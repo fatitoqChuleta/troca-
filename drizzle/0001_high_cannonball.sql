@@ -1,0 +1,1 @@
+ALTER TABLE `swap_listings` ADD `size` varchar(40);
